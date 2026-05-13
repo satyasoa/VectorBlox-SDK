@@ -1,6 +1,4 @@
 import setuptools
-
-
 setuptools.setup(
     name="vbx",
     version="2.0.0",
@@ -33,4 +31,3 @@ setuptools.setup(
     ],
     python_requires='>=3',
 )
- 
